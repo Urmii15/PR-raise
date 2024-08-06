@@ -14,14 +14,14 @@ git add .
 git commit -m "third line"
 added fourth line direct in index.html
 git add .
-git commit -m "third line"
+git commit -m "fourth line"
 created nwe= index.html directly'
 added fifth line direct in new index.html
 git add .
-git commit -m "third line"
+git commit -m "fifth line"
 git log --oneline
 git checkout main
-git merge --squash feature (doubt)
+git merge --squash <branch name>
 git log--oneline
 git commit -m "merge through squash"
 git log--oneline
